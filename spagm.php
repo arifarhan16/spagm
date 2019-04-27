@@ -1,6 +1,6 @@
 <?php
 
-// 100% Coded By Itsnii7w7_
+// 100% Coded By Arikun
 // Recode ? Hacker Kok Recode
 // Recode ? Bocah 
 // Thanks To : Allah Swt
